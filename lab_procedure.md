@@ -21,14 +21,14 @@ If you want to add changes for multiple files (`<filename1>` & `<filename2>`), t
 Or, add all changes for all files using `git add .` Be careful using this command- if you accidentally add a file that is too large to push... fixing it will suck.
 
 ### **Step 6: Commit changes**
-Commit your changes and add a descriptive message describing what you changed using `git commit -m whatever` (write something else besides "whatever")
+Commit your changes and add a descriptive message describing what you changed using `git commit -m 'whatever'` (write something else besides 'whatever')
 
 ### **Step 7: Push changes to your Github repo**
 Push your changes to your forked repo on Github. `git push`  or `git push origin master` should work, but to be more exact, you can type `git push https://github.com/<yourusername>/<forkedrepo>`
 
 ### **Step 8: Submit pull request on the gU version of the repo**
 + Navigate to your forked repo `https://github.com/<yourusername>/<forkedrepo>`
-+ Click on the 'Pull Requests' tab (sandwiched between 'Issues' and 'Wiki')
++ Click on the 'Pull Requests' tab
 + Click the green button that says 'New Pull Request'
 + **Write your name and your lab partner's name in the pull request title**
 + Finish by clicking the green button that says 'Create Pull Request'
