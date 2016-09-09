@@ -2,6 +2,7 @@ Week 3: Distributions
 -----------------------
 
 1. __Review__
+    - Review Weeks 1 & 2
 
 2. __Discrete Probability Distributions__
     - From [OpenIntro Statistics](https://drive.google.com/a/galvanize.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view), read:
