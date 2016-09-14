@@ -1,5 +1,5 @@
 Week 3: Distributions
------------------------
+----------------------
 
 1. __Review__
     - Review Weeks 1 & 2
