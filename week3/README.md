@@ -12,7 +12,7 @@ Week 3: Distributions
     - Optional: Khan Academy's [Random variables and probability distributions](https://www.khanacademy.org/math/probability/random-variables-topic) topic
 
 3. __Continuous Probability Distributions__
-    - Finish chapters 2 and 3 of [OpenIntro Statistics](https://drive.google.com/a/galvanize.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view), particularly:  
+    - Finish chapters 2 and 3 of [OpenIntro Statistics](https://drive.google.com/a/galvanize.com/file/d/0B-DHaDEbiOGkc1RycUtIcUtIelE/view), particularly:
     	- 2.5 - Continuous distributions
     	- 3.1 - Normal distribution
     	- 3.2 - Evaluating the normal approximation
