@@ -7,7 +7,7 @@ Logistics
 **Instructors:**  
 
     Alessandro Gagliardi	: alessandro@galvanize.com
-    Nir Kaldero      		: nir@galvanize.com
+    Amy Yuan        		: amy.yuan@galvanize.com
 
 **Data Science Resident (DSR):**
 
@@ -68,7 +68,7 @@ At Galvanize,  Mastery Tracking is utilized to evaluate real-time student perfor
 
 Standards are the core-competencies of Galvanize graduates - the knowledge, skills, and habits every student should possess by time they graduate. Standards are measurable, student-focused outcomes that state what students are expected to be able to do by the end of the course. Instructors continually provide formative assessments to monitor student performance and inform their teaching practices. Students who are below ‘mastery’ on a standard are expected to continue practicing said standard (with the instructor’s guidance) until they reach mastery. What matters is that students eventually learn the material, not how many attempts it takes to get there.
 
-Mastery Tracking uses a 4-point scale. Every student is expected to achieve 3 (mastery) across all standards by time they complete the course. 1s and 2s indicate areas where students need further practice and/or interventions to reach mastery. Unlike grades for individual assignments, mastery tracking can always be adjusted according to performance up to and including the final exam. 
+Mastery Tracking uses a 4-point scale. Every student is expected to achieve 3 (mastery) across all standards by time they complete the course. 1s and 2s indicate areas where students need further practice and/or interventions to reach mastery. Unlike grades for individual assignments, mastery tracking can always be adjusted according to performance up to and including the final exam.
 
 **4 pt Scale:**  
 1. Falling far below mastery - Meeting none of the success criteria or has egregious errors  
@@ -97,7 +97,7 @@ The Readiness Assessment Tool (RAT) is intended to ensure that students comprehe
 Participation in and completion of lab exercises is a requirement for this course. Each unit includes exercises to provide practice applying techniques discussed in class and to reveal deficiencies in understanding in preparation for skills tests. These exercises may be done in pairs or small groups. _Collaboration must be indicated_ when turning in your assignment. Unless otherwise stated, answers to the lab exercises are due before the following class (_e.g._ Labs assigned on Tuesday are due at 1pm on Thursday. Labs assigned on Friday or due at 1pm the following Monday.)
 
 ### Midterm Project
-There will be one midterm project that will assess your comprehension of the preliminary material of the course including data manipulation, generation, probability, and basic statistics. This project will be assigned on Monday, September 26, and will be due the following Monday, October 3, before class, at 1pm. Unlike the lab exercises, the final project **must be completed individually**. 
+There will be one midterm project that will assess your comprehension of the preliminary material of the course including data manipulation, generation, probability, and basic statistics. This project will be assigned on Monday, September 26, and will be due the following Monday, October 3, before class, at 1pm. Unlike the lab exercises, the final project **must be completed individually**.
 
 ### Final Project
 There will be one final summative project that will assess your comprehension of the material throughout the term. This will be assigned during the seventh week of class and will be due at the end of finals week, at 1pm on October 21. Unlike the lab exercises, the final project **must be completed individually**. Collusion, plagiarism, and cheating will not be tolerated.
@@ -119,7 +119,7 @@ Here is a tentative rubric for the final project. The four columns refer to the 
 <td><strong>Write Basic SQL Queries</strong></td>
 <td>Could not read data from database</td>
 <td>Read data but queries awkward and inefficient</td>
-<td>Read data from database</td>
+<td>Read and write data to/from database</td>
 <td>Used SQL to perform analysis prior to loading it into Python</td>
 </tr>
 <tr>
@@ -138,23 +138,23 @@ Here is a tentative rubric for the final project. The four columns refer to the 
 </tr>
 <tr>
 <td><strong>Explore Data with Exploratory Data Analysis (EDA) techniques</strong></td>
-<td>Did not notice anything wrong</td>
-<td>Noticed something wrong but incorrectly identified it</td>
-<td>Noticed what was wrong but missed something.</td>
-<td>Noticed exactly what was wrong and accounted for it.</td>
+<td>No plots or visualization techniques employed</td>
+<td>Plots are not interpreted or misinterpreted</td>
+<td>Multiple plots provided with interpretation</td>
+<td>Used a plotting library not covered in class and explain the results clearly</td>
 </tr>
 <tr>
 <td><strong>Calculate Probabilities</strong></td>
 <td>Did not calculate probabilities</td>
 <td>Provided some summary statistics, but insufficient</td>
 <td>Provided summary statistics and discussed their relevance</td>
-<td></td>
+<td>Employed ECDF to explore the probability space</td>
 </tr>
 <tr>
 <td><strong>Identify and Manipulate Random Variables / Distributions</strong></td>
 <td>Did not discuss distributions</td>
-<td>Incorrectly identified the distribution</td>
-<td>Correctly identified the distribution</td>
+<td>Incorrectly identified the distribution family</td>
+<td>Correctly identified the distribution family</td>
 <td>Verified that the distribution was as perceived</td>
 </tr>
 <tr>
